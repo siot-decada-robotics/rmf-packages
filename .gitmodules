@@ -1,0 +1,3 @@
+[submodule "rmf_battery"]
+	path = rmf_battery
+	url = https://github.com/open-rmf/rmf_battery.git
