@@ -1,0 +1,15 @@
+[submodule "turtlebot3_simulations"]
+	path = turtlebot3_simulations
+	url = https://github.com/aaronchongth/turtlebot3_simulations
+	branch = noetic-devel
+[submodule "robot_state_publisher"]
+	path = robot_state_publisher
+	url = https://github.com/rhaschke/robot_state_publisher
+	branch = noetic-devel
+[submodule "turtlebot3"]
+	path = turtlebot3
+	url = https://github.com/ROBOTIS-GIT/turtlebot3.git
+	branch = noetic-devel
+[submodule "free_fleet"]
+	path = free_fleet
+	url = https://github.com/siot-decada-robotics/free_fleet.git
