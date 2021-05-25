@@ -13,3 +13,6 @@
 [submodule "free_fleet"]
 	path = free_fleet
 	url = https://github.com/siot-decada-robotics/free_fleet.git
+[submodule "cyclonedds"]
+	path = cyclonedds
+	url = https://github.com/eclipse-cyclonedds/cyclonedds
