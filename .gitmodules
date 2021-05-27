@@ -9,3 +9,7 @@
 [submodule "adhoc-simulations"]
 	path = adhoc-simulations
 	url = https://github.com/siot-decada-robotics/adhoc-simulations.git
+[submodule "robot_state_publisher"]
+	path = robot_state_publisher
+	url = https://github.com/rhaschke/robot_state_publisher
+	branch = noetic-devel
