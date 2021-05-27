@@ -1,0 +1,11 @@
+[submodule "turtlebot3"]
+	path = turtlebot3
+	url = https://github.com/ROBOTIS-GIT/turtlebot3.git
+	branch = noetic-devel
+[submodule "turtlebot3_simulations"]
+	path = turtlebot3_simulations
+	url = https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git
+	branch = noetic-devel
+[submodule "adhoc-simulations"]
+	path = adhoc-simulations
+	url = https://github.com/siot-decada-robotics/adhoc-simulations.git
