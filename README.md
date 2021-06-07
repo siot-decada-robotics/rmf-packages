@@ -1,5 +1,6 @@
 # rmf-packages
 This repository stores the current stable versions of the respective packages used by rmf, as implemented by decada robotics.
+<<<<<<< HEAD
 
 ## branches
 Respective branches and their contents
@@ -43,3 +44,5 @@ Respective branches and their contents
   <li>menge_vendor</li>
   <li>ros_ign</li>
 </ul>
+=======
+>>>>>>> parent of fc4a395... updated README.MD
