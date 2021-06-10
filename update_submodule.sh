@@ -1,5 +1,4 @@
 #!/bin/sh
-# DO NOT RUN THIS SCRIPT, NEW SUBMODULES CAN BE UNSTABLE
 # updates all submodules to main
 
 switch_main()
@@ -12,5 +11,5 @@ switch_main()
 switch_main demonstrations
 switch_main rmf 
 cd thirdparty/menge_vendor; git switch master;
-cd ../ros_ign; git switch melodic; cd ../..
+cd ../ros_ign; git switch dashing; cd ../..
 git add .; git commit -m "update submodules to the latest commit"; git push
