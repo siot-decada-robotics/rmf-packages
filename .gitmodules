@@ -1,0 +1,49 @@
+[submodule "rmf/rmf_battery"]
+	path = rmf/rmf_battery
+	url = https://github.com/open-rmf/rmf_battery.git
+[submodule "rmf/rmf_internal_msgs"]
+	path = rmf/rmf_internal_msgs
+	url = https://github.com/open-rmf/rmf_internal_msgs.git
+[submodule "rmf/rmf_ros2"]
+	path = rmf/rmf_ros2
+	url = https://github.com/open-rmf/rmf_ros2.git
+[submodule "rmf/rmf_task"]
+	path = rmf/rmf_task
+	url = https://github.com/open-rmf/rmf_task.git
+[submodule "rmf/rmf_traffic"]
+	path = rmf/rmf_traffic
+	url = https://github.com/open-rmf/rmf_traffic.git
+[submodule "rmf/rmf_utils"]
+	path = rmf/rmf_utils
+	url = https://github.com/open-rmf/rmf_utils.git
+[submodule "rmf/rmf_cmake_uncrustify"]
+	path = rmf/rmf_cmake_uncrustify
+	url = https://github.com/open-rmf/rmf_cmake_uncrustify.git
+[submodule "rmf/ament_cmake_catch2"]
+	path = rmf/ament_cmake_catch2
+	url = https://github.com/open-rmf/ament_cmake_catch2.git
+[submodule "rmf/rmf_visualization"]
+	path = rmf/rmf_visualization
+	url = https://github.com/open-rmf/rmf_visualization.git
+[submodule "rmf/rmf_visualization_msgs"]
+	path = rmf/rmf_visualization_msgs
+	url = https://github.com/open-rmf/rmf_visualization_msgs.git
+[submodule "rmf/rmf_building_map_msgs"]
+	path = rmf/rmf_building_map_msgs
+	url = https://github.com/open-rmf/rmf_building_map_msgs.git
+[submodule "rmf/rmf_simulation"]
+	path = rmf/rmf_simulation
+	url = https://github.com/open-rmf/rmf_simulation.git
+[submodule "rmf/rmf_traffic_editor"]
+	path = rmf/rmf_traffic_editor
+	url = https://github.com/open-rmf/rmf_traffic_editor.git
+[submodule "demonstrations/rmf_demos"]
+	path = demonstrations/rmf_demos
+	url = https://github.com/open-rmf/rmf_demos.git
+[submodule "thirdparty/ros_ign"]
+	path = thirdparty/ros_ign
+	url = https://github.com/osrf/ros_ign.git
+	branch = dashing
+[submodule "thirdparty/menge_vendor"]
+	path = thirdparty/menge_vendor
+	url = https://github.com/open-rmf/menge_vendor.git
