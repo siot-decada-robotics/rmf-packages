@@ -1,4 +1,5 @@
 #!/bin/sh
+# updates all submodules to main
 
 switch_main()
 {
